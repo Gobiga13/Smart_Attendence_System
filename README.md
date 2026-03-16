@@ -1,94 +1,77 @@
-Smart Attendance System
+📊 Smart Attendance System
 
-A modern Smart Attendance Management System built using modern web technologies.
-This application helps institutions or organizations track and manage attendance efficiently through a simple and user-friendly interface.
+A Smart Attendance Management System built using modern web technologies.
+This project helps schools, colleges, or organizations manage and track attendance efficiently through a simple and user-friendly interface.
 
-🚀 Live Demo
+🚀 Live Application
 
-Access the deployed application here:
-
-🔗 https://smart-attendence-system-phi.vercel.app/
+🔗 Open the App:
+https://smart-attendence-system-phi.vercel.app/
 
 🔐 Admin Portal Login
+Field	Value
+Username	admin
+Password	admin123
+✨ Features
 
-Use the following credentials to access the admin dashboard.
+Secure Admin Login
 
-Username: admin
-Password: admin123
+Attendance Management Dashboard
 
-📌 Features
+Easy Attendance Tracking
 
-Secure admin login system
+Clean and Responsive User Interface
 
-Smart attendance tracking
+Fast performance using Vite
 
-Dashboard for attendance management
+Lightweight SQLite Database
 
-Fast and responsive user interface
-
-Data storage for attendance records
-
-Modern UI built with Vite and React
-
-Easy deployment and scalability
+Simple deployment using Vercel
 
 🛠️ Technologies Used
-
-Frontend: React + Vite
-
-Backend: Node.js
-
-Language: TypeScript
-
-Database: SQLite
-
-Deployment: Vercel
-
-📂 Project Structure
+Technology	Purpose
+React	Frontend UI
+Vite	Fast development build tool
+Node.js	Backend server
+TypeScript	Type-safe development
+SQLite	Local database
+Vercel	Deployment
+📁 Project Structure
 Smart_Attendence_System
 │
 ├── src/                # Application source code
-├── dist/               # Production build files
+├── dist/               # Production build
 ├── server.ts           # Backend server
 ├── attendance.db       # Database file
-├── package.json        # Project dependencies
+├── package.json        # Dependencies
 ├── vite.config.ts      # Vite configuration
 └── README.md
-⚙️ Installation
-
-Clone the repository from GitHub
-
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
 git clone https://github.com/Gobiga13/Smart_Attendence_System.git
-
-Go to the project directory
-
+2️⃣ Navigate to the Project
 cd Smart_Attendence_System
-
-Install dependencies
-
+3️⃣ Install Dependencies
 npm install
-
-Run the development server
-
+4️⃣ Run the Development Server
 npm run dev
 
-The application will run at:
+Server will run at:
 
 http://localhost:3000
-🎯 Future Improvements
+🔮 Future Improvements
 
-Role-based authentication (Admin / Staff / Student)
+Role-based authentication (Admin / Teacher / Student)
 
 Facial recognition attendance
 
-Cloud database integration
-
 Attendance analytics and reports
 
-Mobile responsive dashboard improvements
+Cloud database integration
+
+Mobile responsive improvements
 
 👨‍💻 Author
 
 Gobiga
-
-Engineering Student passionate about building modern web applications and learning new technologies.
+Engineering Student | Web Developer
