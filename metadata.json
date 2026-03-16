@@ -1,0 +1,7 @@
+{
+  "name": "VisionAttend",
+  "description": "Smart Face Recognition Attendance System with real-time detection and admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
