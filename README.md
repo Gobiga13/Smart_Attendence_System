@@ -107,5 +107,13 @@ Engineering Student | Aspiring Full Stack Developer
 
 ---
 
+
+**OUTPUT SRC:**
+
 <img width="1845" height="917" alt="image" src="https://github.com/user-attachments/assets/4af01fe7-f8e3-4923-a388-b1ce155fed3a" />
+
+<img width="1835" height="913" alt="image" src="https://github.com/user-attachments/assets/62d0ecb4-47e2-402f-b1ec-e05f6207a37b" />
+
+<img width="1840" height="919" alt="image" src="https://github.com/user-attachments/assets/33e0ff3d-97a6-44f7-857f-0f1fe820e229" />
+
 
