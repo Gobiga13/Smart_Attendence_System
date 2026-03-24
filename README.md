@@ -107,4 +107,5 @@ Engineering Student | Aspiring Full Stack Developer
 
 ---
 
+<img width="1845" height="917" alt="image" src="https://github.com/user-attachments/assets/4af01fe7-f8e3-4923-a388-b1ce155fed3a" />
 
